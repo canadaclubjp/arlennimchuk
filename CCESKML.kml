@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>CCES</name>
+	<Placemark id="1.2.1">
+		<name>Canada Club English School カナダクラブ英会話スクール</name>
+		<address>Gongen-114-2 Muyacho Minamihama, Naruto, Tokushima 772-0003</address>
+		<phoneNumber>088-686-4663</phoneNumber>
+		<snippet>Gongen-114-2 Muyacho Minamihama, Naruto, Tokushima 772-0003</snippet>
+		<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=34.1744036&lng=134.6035588&fid=0x3553658a4f0bc397:0xf6bbc6a054115dad&hl=en&gl=jp&client=earth-client&cv=7.3.2.5776&useragent=GoogleEarth/7.3.2.5776(Macintosh;Mac OS X (10.15.3);en;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+		<styleUrl>#listing_A</styleUrl>
+		<ExtendedData>
+			<Data name="placepageUri">
+				<value>https://www.google.com/earth/rpc/entity?lat=34.1744036&amp;lng=134.6035588&amp;fid=0x3553658a4f0bc397:0xf6bbc6a054115dad&amp;hl=en&amp;gl=jp&amp;client=earth-client&amp;cv=7.3.2.5776&amp;useragent=GoogleEarth/7.3.2.5776(Macintosh;Mac OS X (10.15.3);en;kml:2.2;client:Pro;type:default)</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>134.6035588,34.1744036,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					134.599938914896,34.1716886861717,0 134.599938914896,34.1771185138283,0 134.607178685104,34.1771185138283,0 134.607178685104,34.1716886861717,0 134.599938914896,34.1716886861717,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+</Folder>
+</kml>
